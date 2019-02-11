@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/figury">
+        <file>images/Bishop_b.png</file>
+        <file>images/Bishop_w.png</file>
+        <file>images/Horse_b.png</file>
+        <file>images/Horse_w.png</file>
+        <file>images/King_b.png</file>
+        <file>images/King_w.png</file>
+        <file>images/Pawn_b.png</file>
+        <file>images/Pawn_w.png</file>
+        <file>images/Queen_b.png</file>
+        <file>images/Queen_w.png</file>
+        <file>images/Rook_b.png</file>
+        <file>images/Rook_w.png</file>
+    </qresource>
+</RCC>
